@@ -1,4 +1,4 @@
-# batch-2-training
+# batch-1-training
 
 ## links to be followed to learn PROGRAMMING
 
