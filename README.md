@@ -50,7 +50,7 @@
 
 - [float none and clear difference](https://stackoverflow.com/questions/18153129/is-there-any-difference-between-float-none-and-clear-none#:~:text=Float%3Anone%3B%20tells%20the%20elements,%3Aboth%3B%20that%20floating%20stops.&text=They're%20two%20totally%20different%20things)
 
-- [CSS grid Kevnin Powel YouTube](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPv5tfS82UF_iQgFp4Bl998)
+- [CSS grid Kevin Powel YouTube](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPv5tfS82UF_iQgFp4Bl998)
 
 - [Masonry layout using Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout)
 
